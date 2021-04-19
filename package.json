@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "runtime start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:runtimejs/helloworld.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "runtimejs": "*"
+  }
+}
